@@ -1,0 +1,1118 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "tamilStickersAnimation",
+        "name": "Friend",
+        "publisher": "Tamil Sticker",
+        "tray_image_file" : "c_1_tray.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "c_1_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_1_29.webp",
+            "emojis": []
+        }
+        ]
+    },
+    {
+    "identifier": "tamilStickersAnimation2",
+    "name": "Nanpan",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_2_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+		{
+            "image_file": "c_2_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_2_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+	    {
+    "identifier": "tamilStickersAnimation3",
+    "name": "Poda",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_3_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	 {
+            "image_file": "c_3_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_3_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+	    
+    {
+    "identifier": "tamilStickersAnimation4",
+    "name": "Machan",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_4_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	 {
+            "image_file": "c_4_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_4_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+	
+	    {
+    "identifier": "tamilStickersAnimation5",
+    "name": "Goundar",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_5_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	     {
+            "image_file": "c_5_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_5_11.webp",
+            "emojis": []
+        }
+    ]
+    },
+	
+	    {
+    "identifier": "tamilStickersAnimation6",
+    "name": "Actors",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_6_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	   {
+            "image_file": "c_6_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_6_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+	
+	    {
+    "identifier": "tamilStickersAnimation7",
+    "name": "Rajani",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_7_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+		{
+            "image_file": "c_7_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_7_19.webp",
+            "emojis": []
+        }
+    ]
+    },
+	
+	    {
+    "identifier": "tamilStickersAnimation8",
+    "name": "Kuttima",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_8_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	 {
+            "image_file": "c_8_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_8_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+	
+	    {
+    "identifier": "tamilStickersAnimation9",
+    "name": "Animal",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_9_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	{
+            "image_file": "c_9_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_9_16.webp",
+            "emojis": []
+        }
+    ]
+    },
+	
+	    {
+    "identifier": "tamilStickersAnimation10",
+    "name": "Love",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_10_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	{
+            "image_file": "c_10_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_10_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+	
+	
+	    {
+    "identifier": "tamilStickersAnimation11",
+    "name": "Lovers",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_11_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	{
+            "image_file": "c_11_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_11_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+	    
+	{
+    "identifier": "tamilStickersAnimation12",
+    "name": "Mama",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "c_12_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+	{
+            "image_file": "c_12_0.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_1.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_2.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_3.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_4.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_5.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_6.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_7.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_8.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_9.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_10.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_11.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_12.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_13.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_14.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_15.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_16.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_17.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_18.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_19.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_20.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_21.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_22.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_23.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_24.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_25.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_26.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_27.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_28.webp",
+            "emojis": []
+        },{
+            "image_file": "c_12_29.webp",
+            "emojis": []
+        }
+    ]
+    }
+	
+	]
+}

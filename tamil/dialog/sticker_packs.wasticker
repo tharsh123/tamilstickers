@@ -1,0 +1,1105 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "tamildialogSticker",
+        "name": "Ajith",
+        "publisher": "Tamil Sticker",
+        "tray_image_file" : "d_ajithtext_tray.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+{
+            "image_file": "d_ajithtext_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_ajithtext_19.webp",
+            "emojis": []
+        }
+        ]
+    },
+    {
+    "identifier": "tamildialogSticker2",
+    "name": "Goundar",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_gound_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+  {
+            "image_file": "d_goundamanitext_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_19.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_20.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_21.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_22.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_23.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_24.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_25.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_26.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_27.webp",
+            "emojis": []
+        },{
+            "image_file": "d_goundamanitext_28.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker3",
+    "name": "Kamal",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_kamal_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_kamaltext_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_kamaltext_14.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker4",
+    "name": "Love",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_lovetext_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_lovetext_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_lovetext_17.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker5",
+    "name": "Rajani",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_rajani_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_rajinitext_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_19.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_20.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_21.webp",
+            "emojis": []
+        },{
+            "image_file": "d_rajinitext_22.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker6",
+    "name": "Santhanam",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_santhanam_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+
+            "image_file": "d_santhanamtext_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_19.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_20.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_21.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_22.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_23.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_24.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_25.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_26.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_27.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_28.webp",
+            "emojis": []
+        },{
+            "image_file": "d_santhanamtext_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker7",
+    "name": "Dialogue",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_tamildialogues_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_tamildialogues_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_19.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_21.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_22.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_23.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_24.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_25.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_26.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_27.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_28.webp",
+            "emojis": []
+        },{
+            "image_file": "d_tamildialogues_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker8",
+    "name": "Vadivelu1",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_vadivelu_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+
+            "image_file": "d_vadivelutext1_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_19.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_20.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_21.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_22.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_23.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_24.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_25.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_26.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_27.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_28.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext1_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker9",
+    "name": "Vadivelu2",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_vadivelutext2_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_vadivelutext2_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_19.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_20.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_21.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_22.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_23.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_24.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_25.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_26.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_27.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_28.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext2_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker10",
+    "name": "Vadivelu3",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_vadivelu3_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_vadivelutext3_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_19.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_20.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_21.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_22.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_23.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_24.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_25.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_26.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_27.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_28.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vadivelutext3_29.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker11",
+    "name": "Valthukkal",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_valthukkal_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_valthukkal_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_18.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_19.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_20.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_21.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_22.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_23.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_24.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_25.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_26.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_27.webp",
+            "emojis": []
+        },{
+            "image_file": "d_valthukkal_28.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker12",
+    "name": "VijaySethu",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_vijaysethutext_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_vijaysethutext_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaysethutext_12.webp",
+            "emojis": []
+        }
+    ]
+    },
+    {
+    "identifier": "tamildialogSticker13",
+    "name": "Vijay",
+    "publisher": "Tamil Sticker",
+    "tray_image_file" : "d_vijay_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+{
+            "image_file": "d_vijaytext_0.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_1.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_2.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_3.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_4.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_5.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_6.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_7.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_8.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_9.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_10.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_11.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_12.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_13.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_14.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_15.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_16.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_17.webp",
+            "emojis": []
+        },{
+            "image_file": "d_vijaytext_18.webp",
+            "emojis": []
+        }
+    ]
+    }
+	
+	]
+}
